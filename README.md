@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vernal-spark/DSA/tree/master/0242-valid-anagram) |
 | [0606-construct-string-from-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/vernal-spark/DSA/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/vernal-spark/DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
