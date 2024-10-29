@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vernal-spark/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vernal-spark/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vernal-spark/DSA/tree/master/0204-count-primes) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vernal-spark/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/vernal-spark/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vernal-spark/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vernal-spark/DSA/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -221,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vernal-spark/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vernal-spark/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
