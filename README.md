@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/vernal-spark/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vernal-spark/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vernal-spark/DSA/tree/master/0204-count-primes) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/vernal-spark/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Recursion
 |  |
 | ------- |
