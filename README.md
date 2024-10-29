@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vernal-spark/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/vernal-spark/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vernal-spark/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/vernal-spark/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vernal-spark/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vernal-spark/DSA/tree/master/0076-minimum-window-substring) |
 | [1138-grumpy-bookstore-owner](https://github.com/vernal-spark/DSA/tree/master/1138-grumpy-bookstore-owner) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/vernal-spark/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Binary Search
 |  |
 | ------- |
