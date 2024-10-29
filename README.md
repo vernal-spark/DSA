@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vernal-spark/DSA/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
 | [1217-relative-sort-array](https://github.com/vernal-spark/DSA/tree/master/1217-relative-sort-array) |
+| [1547-destination-city](https://github.com/vernal-spark/DSA/tree/master/1547-destination-city) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/vernal-spark/DSA/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/vernal-spark/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vernal-spark/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1547-destination-city](https://github.com/vernal-spark/DSA/tree/master/1547-destination-city) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/vernal-spark/DSA/tree/master/0812-rotate-string) |
+| [1547-destination-city](https://github.com/vernal-spark/DSA/tree/master/1547-destination-city) |
 ## Sliding Window
 |  |
 | ------- |
