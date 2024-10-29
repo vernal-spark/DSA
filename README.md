@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vernal-spark/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vernal-spark/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/vernal-spark/DSA/tree/master/0012-integer-to-roman) |
 | [0146-lru-cache](https://github.com/vernal-spark/DSA/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vernal-spark/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vernal-spark/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vernal-spark/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/vernal-spark/DSA/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vernal-spark/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/vernal-spark/DSA/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/vernal-spark/DSA/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
