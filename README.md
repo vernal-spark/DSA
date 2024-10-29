@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/vernal-spark/DSA/tree/master/1547-destination-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vernal-spark/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1904-second-largest-digit-in-a-string](https://github.com/vernal-spark/DSA/tree/master/1904-second-largest-digit-in-a-string) |
+| [2429-design-a-food-rating-system](https://github.com/vernal-spark/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vernal-spark/DSA/tree/master/0146-lru-cache) |
+| [2429-design-a-food-rating-system](https://github.com/vernal-spark/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/vernal-spark/DSA/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vernal-spark/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vernal-spark/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/vernal-spark/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vernal-spark/DSA/tree/master/0493-reverse-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/vernal-spark/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Prefix Sum
 |  |
 | ------- |
