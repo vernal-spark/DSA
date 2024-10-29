@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vernal-spark/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/vernal-spark/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vernal-spark/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vernal-spark/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vernal-spark/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vernal-spark/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vernal-spark/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vernal-spark/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vernal-spark/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vernal-spark/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vernal-spark/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -209,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vernal-spark/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
