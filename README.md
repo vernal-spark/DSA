@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/vernal-spark/DSA/tree/master/1217-relative-sort-array) |
 | [1547-destination-city](https://github.com/vernal-spark/DSA/tree/master/1547-destination-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vernal-spark/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1904-second-largest-digit-in-a-string](https://github.com/vernal-spark/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/vernal-spark/DSA/tree/master/0812-rotate-string) |
 | [1547-destination-city](https://github.com/vernal-spark/DSA/tree/master/1547-destination-city) |
+| [1904-second-largest-digit-in-a-string](https://github.com/vernal-spark/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
