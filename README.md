@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vernal-spark/DSA/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/vernal-spark/DSA/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
+| [0853-most-profit-assigning-work](https://github.com/vernal-spark/DSA/tree/master/0853-most-profit-assigning-work) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vernal-spark/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vernal-spark/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/vernal-spark/DSA/tree/master/0493-reverse-pairs) |
+| [0853-most-profit-assigning-work](https://github.com/vernal-spark/DSA/tree/master/0853-most-profit-assigning-work) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vernal-spark/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vernal-spark/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vernal-spark/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0853-most-profit-assigning-work](https://github.com/vernal-spark/DSA/tree/master/0853-most-profit-assigning-work) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vernal-spark/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/vernal-spark/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
+| [0853-most-profit-assigning-work](https://github.com/vernal-spark/DSA/tree/master/0853-most-profit-assigning-work) |
 ## Stack
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/vernal-spark/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0853-most-profit-assigning-work](https://github.com/vernal-spark/DSA/tree/master/0853-most-profit-assigning-work) |
 ## Binary Indexed Tree
 |  |
 | ------- |
