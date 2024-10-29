@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/vernal-spark/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vernal-spark/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vernal-spark/DSA/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vernal-spark/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vernal-spark/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vernal-spark/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/vernal-spark/DSA/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vernal-spark/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vernal-spark/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/vernal-spark/DSA/tree/master/0229-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vernal-spark/DSA/tree/master/0229-majority-element-ii) |
 ## Enumeration
 |  |
 | ------- |
