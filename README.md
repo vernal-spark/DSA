@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vernal-spark/DSA/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/vernal-spark/DSA/tree/master/0853-most-profit-assigning-work) |
+| [0898-transpose-matrix](https://github.com/vernal-spark/DSA/tree/master/0898-transpose-matrix) |
 ## Math
 |  |
 | ------- |
@@ -238,10 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vernal-spark/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vernal-spark/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/vernal-spark/DSA/tree/master/0419-battleships-in-a-board) |
+| [0898-transpose-matrix](https://github.com/vernal-spark/DSA/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vernal-spark/DSA/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/vernal-spark/DSA/tree/master/0898-transpose-matrix) |
 ## Combinatorics
 |  |
 | ------- |
