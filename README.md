@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/vernal-spark/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vernal-spark/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vernal-spark/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/vernal-spark/DSA/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/vernal-spark/DSA/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/vernal-spark/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/vernal-spark/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vernal-spark/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/vernal-spark/DSA/tree/master/0086-partition-list) |
 ## Sorting
 |  |
 | ------- |
