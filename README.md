@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/vernal-spark/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0898-transpose-matrix](https://github.com/vernal-spark/DSA/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/vernal-spark/DSA/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/vernal-spark/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vernal-spark/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/vernal-spark/DSA/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/vernal-spark/DSA/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/vernal-spark/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vernal-spark/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/vernal-spark/DSA/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/vernal-spark/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0954-maximum-sum-circular-subarray](https://github.com/vernal-spark/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -353,4 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/vernal-spark/DSA/tree/master/0948-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/vernal-spark/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/vernal-spark/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
