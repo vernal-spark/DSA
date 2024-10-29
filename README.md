@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/vernal-spark/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vernal-spark/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/vernal-spark/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vernal-spark/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Math
 |  |
 | ------- |
@@ -279,12 +280,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/vernal-spark/DSA/tree/master/0419-battleships-in-a-board) |
 | [0898-transpose-matrix](https://github.com/vernal-spark/DSA/tree/master/0898-transpose-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vernal-spark/DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vernal-spark/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vernal-spark/DSA/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/vernal-spark/DSA/tree/master/0898-transpose-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vernal-spark/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vernal-spark/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Combinatorics
 |  |
 | ------- |
