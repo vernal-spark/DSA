@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vernal-spark/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vernal-spark/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/vernal-spark/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/vernal-spark/DSA/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vernal-spark/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vernal-spark/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vernal-spark/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/vernal-spark/DSA/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -96,8 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vernal-spark/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vernal-spark/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vernal-spark/DSA/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vernal-spark/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vernal-spark/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vernal-spark/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
