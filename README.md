@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/vernal-spark/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1138-grumpy-bookstore-owner](https://github.com/vernal-spark/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/vernal-spark/DSA/tree/master/1217-relative-sort-array) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/vernal-spark/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 ## Math
 |  |
 | ------- |
