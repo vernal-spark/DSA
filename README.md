@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vernal-spark/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-destination-city](https://github.com/vernal-spark/DSA/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vernal-spark/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/vernal-spark/DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## Math
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vernal-spark/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/vernal-spark/DSA/tree/master/0419-battleships-in-a-board) |
 | [0898-transpose-matrix](https://github.com/vernal-spark/DSA/tree/master/0898-transpose-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/vernal-spark/DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
