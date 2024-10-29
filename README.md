@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/vernal-spark/DSA/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/vernal-spark/DSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vernal-spark/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1138-grumpy-bookstore-owner](https://github.com/vernal-spark/DSA/tree/master/1138-grumpy-bookstore-owner) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vernal-spark/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vernal-spark/DSA/tree/master/0076-minimum-window-substring) |
+| [1138-grumpy-bookstore-owner](https://github.com/vernal-spark/DSA/tree/master/1138-grumpy-bookstore-owner) |
 ## Binary Search
 |  |
 | ------- |
