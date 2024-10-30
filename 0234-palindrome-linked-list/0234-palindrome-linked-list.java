@@ -12,13 +12,14 @@ class Solution {
     public boolean isPalindrome(ListNode head) {
         if(head==null || head.next==null)return true;
         int size = 0;
-        ListNode curr = head;
-        while (curr != null) {
+        ListNode slow = head;
+        while (slow != null) {
             size++;
-            curr = curr.next;
+            slow = slow.next;
         }
         ArrayDeque<Integer> s = new ArrayDeque<>();
-        ListNode fast = head, slow = head;
+        ListNode fast = head;
+        slow = head;
         while (fast != null && fast.next != null) {
             s.push(slow.val);
             slow = slow.next;
