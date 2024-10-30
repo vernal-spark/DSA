@@ -9,32 +9,24 @@
  * }
  */
 class Solution {
-    public static int getMin(ListNode[] lists){
-        int i=0;
-        while( i<lists.length && lists[i]==null){
-            i++;
-        }
-        if(i==lists.length)return -1;
-        int idx = i;
-        for(i=idx+1;i<lists.length;i++){
-            if(lists[i]!=null && lists[i].val<lists[idx].val){
-                idx = i;
-            }
-        }
-        return idx;
-    }
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists.length==0)return null;
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
-        int index = getMin(lists);
-        while(index>=0){
-            curr.next = new ListNode(lists[index].val);
+        while(true){
+            ListNode min = null;
+            int minIndex = -1;
+            for(int i=0;i<lists.length;i++){
+                if(min==null||(lists[i]!=null && lists[i].val<min.val)){
+                    min = lists[i];
+                    minIndex = i;
+                }
+            }
+            if(min == null)break;
+            curr.next = min;
             curr = curr.next;
-            lists[index] = lists[index].next;
-            index = getMin(lists);
+            lists[minIndex]=lists[minIndex].next;
         }
         return dummy.next;
-        
     }
 }
