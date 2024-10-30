@@ -9,33 +9,38 @@
  * }
  */
 class Solution {
+    public static ListNode reverse(ListNode head){
+        if(head==null || head.next==null)return head;
+        ListNode curr = head,prev=null;
+        while(curr!=null){
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
+        }
+        return prev;
+    }
     public boolean isPalindrome(ListNode head) {
         if(head==null || head.next==null)return true;
-        int size = 0;
-        ListNode slow = head;
-        while (slow != null) {
-            size++;
-            slow = slow.next;
-        }
-        ArrayDeque<Integer> s = new ArrayDeque<>();
-        ListNode fast = head;
-        slow = head;
+        ListNode fast = head,slow = head, prev = null;
         while (fast != null && fast.next != null) {
-            s.push(slow.val);
+            prev = slow;
             slow = slow.next;
             fast = fast.next.next;
         }
-        if (size % 2 != 0) {
+        if(fast!=null){
             slow = slow.next;
         }
-        while (slow != null && !s.isEmpty()) {
-            if (slow.val != s.peek()) {
+        prev.next=null;
+        slow = reverse(slow);
+        while (slow != null && head!=null) {
+            if (slow.val != head.val) {
                 return false;
             }
             slow = slow.next;
-            s.pop();
+            head = head.next;
         }
-        if(slow==null && s.isEmpty()){
+        if(slow==null && head==null){
             return true;
         }
         return false;
