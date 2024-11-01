@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vernal-spark/DSA/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/vernal-spark/DSA/tree/master/0155-min-stack) |
 | [2429-design-a-food-rating-system](https://github.com/vernal-spark/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Doubly-Linked List
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vernal-spark/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vernal-spark/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vernal-spark/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/vernal-spark/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vernal-spark/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vernal-spark/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Dynamic Programming
