@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/vernal-spark/DSA/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/vernal-spark/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/vernal-spark/DSA/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/vernal-spark/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/vernal-spark/DSA/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/vernal-spark/DSA/tree/master/0853-most-profit-assigning-work) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vernal-spark/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vernal-spark/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vernal-spark/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/vernal-spark/DSA/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/vernal-spark/DSA/tree/master/0937-online-stock-span) |
 ## Dynamic Programming
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vernal-spark/DSA/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/vernal-spark/DSA/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/vernal-spark/DSA/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
