@@ -1,38 +1,43 @@
 import java.util.Stack;
 
 class Solution {
-    public int largestRectangleArea(int[] heights) {
-        int n = heights.length;
-        int[] left_small = new int[n];
-        int[] right_small = new int[n];
-
+    public int largestRectangleArea(int[] arr) {
+        int n = arr.length;
         Stack<Integer> s = new Stack<>();
-
-        for (int i = 0; i < n; i++) {
-            while (!s.isEmpty() && heights[s.peek()] >= heights[i]) {
+        s.push(-1);
+        
+        int area = arr[0];
+        int i = 0;
+        
+        int[] leftSmaller = new int[n];
+        int[] rightSmaller = new int[n];
+        
+        for (int j = 0; j < n; j++) {
+            leftSmaller[j] = -1;
+            rightSmaller[j] = n;
+        }
+        
+        while (i < n) {
+            while (!s.isEmpty() && s.peek() != -1 && arr[s.peek()] > arr[i]) {
+                rightSmaller[s.peek()] = i;
                 s.pop();
             }
-            left_small[i] = (s.isEmpty()) ? -1 : s.peek();
-            s.push(i);
-        }
-
-        s.clear();
-
-        for (int i = n - 1; i >= 0; i--) {
-            while (!s.isEmpty() && heights[s.peek()] >= heights[i]) {
-                s.pop();
+            
+            if (i > 0 && arr[i] == arr[i - 1]) {
+                leftSmaller[i] = leftSmaller[i - 1];
+            } else {
+                leftSmaller[i] = s.peek();
             }
-            right_small[i] = (s.isEmpty()) ? n : s.peek();
+            
             s.push(i);
+            i++;
         }
-
-        int maxArea = 0;
-        for (int i = 0; i < n; i++) {
-            int width = right_small[i] - left_small[i] - 1;
-            int area = heights[i] * width;
-            maxArea = Math.max(maxArea, area);
+        
+        for (int j = 0; j < n; j++) {
+            int currentArea = arr[j] * (rightSmaller[j] - leftSmaller[j] - 1);
+            area = Math.max(area, currentArea);
         }
-
-        return maxArea;
+        
+        return area;
     }
 }
