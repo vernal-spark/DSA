@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vernal-spark/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/vernal-spark/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vernal-spark/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/vernal-spark/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/vernal-spark/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vernal-spark/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vernal-spark/DSA/tree/master/0234-palindrome-linked-list) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vernal-spark/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vernal-spark/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vernal-spark/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/vernal-spark/DSA/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/vernal-spark/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/vernal-spark/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/vernal-spark/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vernal-spark/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/vernal-spark/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vernal-spark/DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/vernal-spark/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/vernal-spark/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vernal-spark/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vernal-spark/DSA/tree/master/0070-climbing-stairs) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vernal-spark/DSA/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/vernal-spark/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0853-most-profit-assigning-work](https://github.com/vernal-spark/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vernal-spark/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
