@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vernal-spark/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vernal-spark/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0606-construct-string-from-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vernal-spark/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0419-battleships-in-a-board](https://github.com/vernal-spark/DSA/tree/master/0419-battleships-in-a-board) |
 | [0606-construct-string-from-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
 ## Binary Tree
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vernal-spark/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vernal-spark/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0606-construct-string-from-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vernal-spark/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vernal-spark/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
 ## String Matching
 |  |
