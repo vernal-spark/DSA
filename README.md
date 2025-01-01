@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vernal-spark/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vernal-spark/DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vernal-spark/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vernal-spark/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vernal-spark/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/vernal-spark/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vernal-spark/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vernal-spark/DSA/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/vernal-spark/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/vernal-spark/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vernal-spark/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/vernal-spark/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vernal-spark/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vernal-spark/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vernal-spark/DSA/tree/master/0234-palindrome-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vernal-spark/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vernal-spark/DSA/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/vernal-spark/DSA/tree/master/0898-transpose-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vernal-spark/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vernal-spark/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vernal-spark/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Combinatorics
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vernal-spark/DSA/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/vernal-spark/DSA/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vernal-spark/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vernal-spark/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
