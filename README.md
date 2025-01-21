@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vernal-spark/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vernal-spark/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/vernal-spark/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/vernal-spark/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vernal-spark/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/vernal-spark/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Math
