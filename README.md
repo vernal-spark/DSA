@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/vernal-spark/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vernal-spark/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/vernal-spark/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vernal-spark/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/vernal-spark/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vernal-spark/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
