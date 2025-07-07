@@ -138,6 +138,7 @@ A collection of LeetCode questions.
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vernal-spark/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/vernal-spark/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vernal-spark/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vernal-spark/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/vernal-spark/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Math
@@ -218,6 +219,7 @@ A collection of LeetCode questions.
 | [0493-reverse-pairs](https://github.com/vernal-spark/DSA/tree/master/0493-reverse-pairs) |
 | [0853-most-profit-assigning-work](https://github.com/vernal-spark/DSA/tree/master/0853-most-profit-assigning-work) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vernal-spark/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/vernal-spark/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vernal-spark/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/vernal-spark/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vernal-spark/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -415,6 +419,7 @@ A collection of LeetCode questions.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/vernal-spark/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vernal-spark/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -535,4 +540,5 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/vernal-spark/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
