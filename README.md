@@ -372,6 +372,7 @@ A collection of LeetCode questions.
 | [0543-diameter-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/vernal-spark/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vernal-spark/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions.
 | [0543-diameter-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/vernal-spark/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vernal-spark/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -540,5 +542,6 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/vernal-spark/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
