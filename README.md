@@ -23,6 +23,7 @@ A collection of LeetCode questions.
 | [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vernal-spark/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vernal-spark/DSA/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vernal-spark/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/vernal-spark/DSA/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions.
 | [0155-min-stack](https://github.com/vernal-spark/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vernal-spark/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vernal-spark/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vernal-spark/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0859-design-circular-deque](https://github.com/vernal-spark/DSA/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/vernal-spark/DSA/tree/master/0937-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/vernal-spark/DSA/tree/master/2429-design-a-food-rating-system) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions.
 | [0240-search-a-2d-matrix-ii](https://github.com/vernal-spark/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vernal-spark/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vernal-spark/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vernal-spark/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0419-battleships-in-a-board](https://github.com/vernal-spark/DSA/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/vernal-spark/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/vernal-spark/DSA/tree/master/0493-reverse-pairs) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions.
 | [0172-factorial-trailing-zeroes](https://github.com/vernal-spark/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vernal-spark/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vernal-spark/DSA/tree/master/0204-count-primes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vernal-spark/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/vernal-spark/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/vernal-spark/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vernal-spark/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -555,4 +559,8 @@ A collection of LeetCode questions.
 | [0783-search-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/vernal-spark/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/vernal-spark/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
