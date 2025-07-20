@@ -23,6 +23,7 @@ A collection of LeetCode questions.
 | [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vernal-spark/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vernal-spark/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vernal-spark/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vernal-spark/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/vernal-spark/DSA/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions.
 | [0240-search-a-2d-matrix-ii](https://github.com/vernal-spark/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vernal-spark/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vernal-spark/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/vernal-spark/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vernal-spark/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0419-battleships-in-a-board](https://github.com/vernal-spark/DSA/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/vernal-spark/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions.
 | [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vernal-spark/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vernal-spark/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vernal-spark/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vernal-spark/DSA/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/vernal-spark/DSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vernal-spark/DSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions.
 | [0215-kth-largest-element-in-an-array](https://github.com/vernal-spark/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vernal-spark/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vernal-spark/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vernal-spark/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/vernal-spark/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/vernal-spark/DSA/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/vernal-spark/DSA/tree/master/0853-most-profit-assigning-work) |
@@ -451,6 +455,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0169-majority-element](https://github.com/vernal-spark/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vernal-spark/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vernal-spark/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -465,6 +470,7 @@ A collection of LeetCode questions.
 | [0023-merge-k-sorted-lists](https://github.com/vernal-spark/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vernal-spark/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vernal-spark/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/vernal-spark/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/vernal-spark/DSA/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vernal-spark/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vernal-spark/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -473,6 +479,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vernal-spark/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vernal-spark/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -533,6 +540,7 @@ A collection of LeetCode questions.
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vernal-spark/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/vernal-spark/DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
